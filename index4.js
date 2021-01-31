@@ -5,6 +5,6 @@ let dateOfBirth;
 let address;
 firstName = "Arezoo";
 lastName = "Yousefi";
-age = "41";
+age = 41;
 dateOfBirth = "10/12/1979";
 address = "1530 Salisbury Ave";

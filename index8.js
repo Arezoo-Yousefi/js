@@ -1,13 +1,8 @@
-let firstName;
-let lastName;
-let age;
-let dateOfBirth;
-let address;
-firstName = "Arezoo";
-lastName = "Yousefi";
-age = 41;
-dateOfBirth = "10/12/1979";
-address = "1530 Salisbury Ave";
+const firstName = "Arezoo";
+const lastName = "Yousefi" ;
+const age = 41;
+const dateOfBirth = "10/12/1979";
+const address = "1530 Salisbury Ave";
 console.log('My first name:', firstName);
 console.log('My last name:', lastName);
 console.log('I am ', age ,'years old.');
