@@ -1,0 +1,15 @@
+let firstName;
+let lastName;
+let age;
+let dateOfBirth;
+let address;
+firstName = "Arezoo";
+lastName = "Yousefi";
+age = "41";
+dateOfBirth = "10/12/1979";
+address = "1530 Salisbury Ave";
+console.log('My first name:', firstName);
+console.log('My last name:', lastName);
+console.log('I am ', age ,'years old.');
+console.log('I was born in ', dateOfBirth);
+console.log('My address is ', address);
