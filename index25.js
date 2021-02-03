@@ -1,0 +1,18 @@
+let superHeroName = "Batman";
+let name = "Bruce Wayne";
+let fly = false;
+let hasBatmobile = true;
+let life = 20;
+let freeTime = null;
+console.log("Superheroname:",superHeroName);
+console.log("name:",name);
+console.log("fly:",fly);
+console.log("Hasbatmobile:",hasBatmobile);
+console.log("life:",life);
+console.log("freetime:",freeTime);
+console.log("Superheroname:",typeof superHeroName);
+console.log("name:",typeof name);
+console.log("fly:",typeof fly);
+console.log("Hasbatmobile:",typeof hasBatmobile);
+console.log("life:",typeof life);
+console.log("freetime:",typeof freeTime);

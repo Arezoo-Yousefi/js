@@ -1,0 +1,15 @@
+let city;
+let nameOfCity = "Tehran";
+let population = 10000000;
+let polution = false;
+let beauty = true;
+console.log("city",city);
+console.log("The name of city is: ",nameOfCity);
+console.log("The population is: ",population);
+console.log("The weather is clean: ",polution);
+console.log("The city is beautiful: ", beauty);
+console.log("city:",typeof city);
+console.log("name of city:", typeof nameOfCity);
+console.log("population:",typeof population);
+console.log("polution:",typeof polution);
+console.log("beauty:",typeof beauty);
