@@ -1,3 +1,11 @@
 let student = "Parmida, Mantra, Ali, Arezoo, Shahrzad";
 let result = student.split(",");
 console.log("Student names:", result);
+let text = "  it will be fun    ";
+let s = text.includes("will1");
+let m = text.indexOf("w");
+console.log(m);
+console.log(text.repeat(12));
+console.log(text.replace("fun","joy"));
+console.log(`"${text}"`);
+console.log(`"${text.trim()}"`);
