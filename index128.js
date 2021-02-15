@@ -1,0 +1,10 @@
+const iceCreamFlavours = ["caffee", "moka", "chocolate", "coconut", "vanilla", "nut", "orange", "strawberry", "blueberry", "rasberry"];
+const flavour1 = iceCreamFlavours.pop();
+const flavour2 = iceCreamFlavours.pop();
+const flavour3 = iceCreamFlavours.pop();
+const flavour4 = iceCreamFlavours.pop();
+console.log(iceCreamFlavours);
+console.log(flavour1);
+console.log(flavour2);
+console.log(flavour3);
+console.log(flavour4);
